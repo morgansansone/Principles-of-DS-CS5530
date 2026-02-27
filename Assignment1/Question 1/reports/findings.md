@@ -1,6 +1,6 @@
 # Frailty Analysis Report
 
-## summary table
+## Summary table
 |                |     mean |   median |       std |
 |:---------------|---------:|---------:|----------:|
 | Grip strength  | 26       | 27       | 4.52155   |
@@ -9,5 +9,5 @@
 | BMI            | 19.682   | 19.185   | 1.78097   |
 | Frailty_binary |  0.4     |  0       | 0.516398  |
 
-## strength and fratility
+## Strength and Fratility
 Correlation of strength and fratility: **-0.4759**
