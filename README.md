@@ -1,2 +1,2 @@
-# Principles-of-DS-CS5530
+# Principles of Data Science - CS5530
 Morgan Sansone
