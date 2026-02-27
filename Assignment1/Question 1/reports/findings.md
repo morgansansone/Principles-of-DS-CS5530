@@ -9,5 +9,5 @@
 | BMI            | 19.682   | 19.185   | 1.78097   |
 | Frailty_binary |  0.4     |  0       | 0.516398  |
 
-## Strength and Fratility
-Correlation of strength and fratility: **-0.4759**
+## Strength and Frailty
+Correlation of strength and frailty: **-0.4759**
